@@ -23,21 +23,21 @@ Evaluated security controls and compliance posture for an e-commerce company usi
 **Skills**: Security controls assessment, compliance mapping, risk analysis, gap identification
 
 ### [2. Incident Response Analysis](reports/3.%20Incident%20report%20analysis.pdf)
-Analyzed a DDoS attack scenario using the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover). Investigated root cause (misconfigured firewall), documented containment actions, and recommended prevention measures including IDS/IPS implementation and monitoring improvements.
+Analyzed a DDoS attack scenario using the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover). Investigated root cause (misconfigured firewall), documented containment actions, and recommended prevention measures, including IDS/IPS implementation and monitoring improvements.
 
 **Skills**: Incident analysis, NIST framework application, root cause analysis, network security fundamentals
 
-### [3. SQL Security Investigation](reports/reports/4.%20Apply%20filters%20t%20SQ%20queries.pdf)
+### [3. SQL Security Investigation](reports/reports/4.%20Apply%20filters%20to%20SQ%20queries.pdf)
 Used SQL queries to investigate security incidents and support administrative tasks. Applied filtering techniques to analyze failed login attempts after work hours, investigate suspicious activity on specific dates, and identify login attempts from outside Mexico. Also queried employee databases for security updates across departments.
 
 **Skills**: SQL filtering, security log analysis, data investigation, database querying
 
-### [4. Vulnerability Assessment Report](reports/reports/5.%20Vulnerability%20assessment%20report.pdf)
+### [3. SQL Security Investigation](reports/4.%20Apply%20filters%20to%20SQL%20queries.pdf)
 Conducted a qualitative risk assessment of a publicly accessible MySQL database server using *NIST SP 800-30 Rev. 1* methodology. Identified and scored threats from hackers, hacktivists, and competitors using likelihood × severity calculations. Recommended layered security controls including least privilege access, MFA, AAA framework, and IDS/IPS implementation.
 
 **Skills**: Vulnerability assessment, NIST risk methodology, threat modeling, qualitative risk analysis, security remediation planning
 
-### [5. Incident Handler's Journal](reports/reports/6.%20Incident%20handlers%20journal.pdf)
+### [5. Incident Handler's Journal](reports/6.%20Incident%20handlers%20journal.pdf)
 Documented three security incidents and hands-on lab exercises in a professional incident journal format. Investigated malware incident using VirusTotal (5 W's methodology), performed network packet analysis with tcpdump, and configured custom IDS rules with Suricata. Included reflections on incident response methodology and tool effectiveness.
 
 **Skills**: Incident documentation, malware analysis, network packet capture, IDS rule configuration, 5 W's investigation framework
