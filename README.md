@@ -27,12 +27,12 @@ Analyzed a DDoS attack scenario using the NIST Cybersecurity Framework (Identify
 
 **Skills**: Incident analysis, NIST framework application, root cause analysis, network security fundamentals
 
-### [3. SQL Security Investigation](reports/reports/4.%20Apply%20filters%20to%20SQ%20queries.pdf)
+### [3. SQL Security Investigation](reports/4.%20Apply%20filters%20to%20SQL%20queries.pdf)
 Used SQL queries to investigate security incidents and support administrative tasks. Applied filtering techniques to analyze failed login attempts after work hours, investigate suspicious activity on specific dates, and identify login attempts from outside Mexico. Also queried employee databases for security updates across departments.
 
 **Skills**: SQL filtering, security log analysis, data investigation, database querying
 
-### [3. SQL Security Investigation](reports/4.%20Apply%20filters%20to%20SQL%20queries.pdf)
+### [4. Vulnerability Assessment Report](reports/5.%20Vulnerability%20assessment%20report.pdf)
 Conducted a qualitative risk assessment of a publicly accessible MySQL database server using *NIST SP 800-30 Rev. 1* methodology. Identified and scored threats from hackers, hacktivists, and competitors using likelihood × severity calculations. Recommended layered security controls including least privilege access, MFA, AAA framework, and IDS/IPS implementation.
 
 **Skills**: Vulnerability assessment, NIST risk methodology, threat modeling, qualitative risk analysis, security remediation planning
